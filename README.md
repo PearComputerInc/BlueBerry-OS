@@ -1,2 +1,2 @@
 # BlueBerry-OS
-Pasta Is A Custom OS, Written In Python & Assembly!
+BlueBerry OS Is A Custom OS, Written In Python & Assembly!
