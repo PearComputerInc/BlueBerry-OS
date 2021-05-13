@@ -1,2 +1,2 @@
 xcopy *.* /h system32
-copy *.* 
+copy *.m c:\METADATA-INF /Y
