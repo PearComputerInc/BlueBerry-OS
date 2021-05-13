@@ -1,9 +1,7 @@
 # Security Policy
 
 ## Supported Versions
-
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+See The List Below.
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -14,4 +12,12 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Go To "Issues", 
+Go To "Issues", Make An Issue In "security issues", & Make Your Issue There.
+
+## Supported Architectures
+
+|Architecture|Supported
+|------------|---------
+|x86  |   :x:   | 
+|ARM  |  :white_check_mark:    |
+|  DISA i1  | :white_check_mark: |
