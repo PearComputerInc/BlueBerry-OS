@@ -5,4 +5,4 @@ copy *.m c:\METADATA-INF /Y
 chkdsk /V
 md c:\blueberryosresources\kernel
 chkdsk /V
-md c:\filedata
+md c:\filedata\blueberryos
